@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<question type="shortanswer">
+	<name>
+		<text>Demo question à réponse courte</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la différence entre une poule et une chèvre ?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<answer fraction="100">
+     <text>The correct answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
+</question>
