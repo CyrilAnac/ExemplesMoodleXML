@@ -3,7 +3,7 @@
 
 <question type="matching">
 	<name>
-		<text>Demo question d'appariement</text>
+		<text>Demo de quiz </text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
