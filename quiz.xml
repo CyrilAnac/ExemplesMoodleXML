@@ -3,12 +3,8 @@
 
 <question type="matching">
 	<name>
-<<<<<<< HEAD
 		<text>Demo de quiz conflit de la question 5 de tp :P</text>
 
-=======
-		<text>Demo de quiz oui c'est le quiz</text>
->>>>>>> f453dd5f6fb63e89e9238dbac4410a91ee60e3f0
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
